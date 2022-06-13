@@ -21,8 +21,15 @@
 
 ## 目录
 
-- **2-medium-GetReturnType** 			    <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.zh-CN.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/2-medium-GetReturnType.md' alt='2'><img src="https://img.shields.io/badge/-Answer-green"/></a>  
-- **2070-medium-DropChar**			         <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/02070-medium-drop-char/README.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/2070-medium-DropChar.md' alt='2'><img src="https://img.shields.io/badge/-Answer-green"/></a>  
+| **2-medium-GetReturnType** | <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.zh-CN.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/2-medium-GetReturnType.md' alt='2'><img src="https://img.shields.io/badge/-Answer-green"/></a> |
+| :------------------------: | :----------------------------------------------------------: |
+|  **2070-medium-DropChar**  | <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/02070-medium-drop-char/README.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/2070-medium-DropChar.md' alt='2'><img src="https://img.shields.io/badge/-Answer-green"/></a> |
+|            ****            |                                                              |
+|            ****            |                                                              |
+
+## Credits
+
+- [type-challenges](https://github.com/type-challenges/type-challenges) by [Anthony Fu](https://github.com/antfu)
 
 ## License
 
