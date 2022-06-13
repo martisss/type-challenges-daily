@@ -17,7 +17,7 @@
 
 ## 开始
 
-高质量的类型可以提高项目的可维护性并避免一些潜在的漏洞，[`type-challenges`](https://github.com/type-challenges/type-challenges) 中有很多有趣的类型挑战，俗话说 "纸上得来终觉浅，绝知此事要躬行"，亲自动手尝试完成这些挑战能够进一步加深对**类型系统**的理解。这个仓库主要用来记录如何实现在[`type-challenges`](https://github.com/type-challenges/type-challenges)项目中遇到的一些类型以及实现思路，如果能够帮助到你，那就再好不过了。:tada::tada::tada:
+高质量的类型可以提高项目的可维护性并避免一些潜在的漏洞，[`type-challenges`](https://github.com/type-challenges/type-challenges) 中有很多有趣的类型挑战，俗话说 "纸上得来终觉浅，绝知此事要躬行"，亲自动手尝试完成这些挑战能够进一步加深对**类型系统**的理解。这个仓库主要用来记录如何实现在[`type-challenges`](https://github.com/type-challenges/type-challenges)项目中遇到的一些类型，如果能够帮助到你，那就再好不过了。:tada::tada::tada:
 
 ## 目录
 
