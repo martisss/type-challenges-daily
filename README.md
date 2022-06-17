@@ -25,7 +25,13 @@
 | :------------------------: | :----------------------------------------------------------: |
 |  **2070-medium-DropChar**  | <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/02070-medium-drop-char/README.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/2070-medium-DropChar.md' alt='2'><img src="https://img.shields.io/badge/-Answer-green"/></a> |
 |   **8-medium-Readonly2**   | <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/00008-medium-readonly-2/README.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/8-medium-Readonly2.md' alt='8'><img src="https://img.shields.io/badge/-Answer-green"/></a> |
-|            ****            |                                                              |
+|     **15-medium-Last**     | <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/00015-medium-last/README.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/15-medium-Last.md' alt='8'><img src="https://img.shields.io/badge/-Answer-green"/></a> |
+|     **3-medium-Omit**      | <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/00003-medium-omit/README.md" target="_blank"><img src="https://img.shields.io/badge/Playground-%E5%8E%BB%E5%81%9A%E6%93%8D-blue"/></a> <a href='./src/3-medium-Omit.md' alt='8'><img src="https://img.shields.io/badge/-Answer-green"/></a> |
+|                            |                                                              |
+|                            |                                                              |
+|                            |                                                              |
+|                            |                                                              |
+|                            |                                                              |
 
 ## Credits
 
